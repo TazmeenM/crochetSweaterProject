@@ -1,1 +1,82 @@
 # crochetSweaterProject
+
+Row 1: 1 slip stitch, 42 single crochets
+
+Row 2: 1 single crochet, (skip a stitch, double crochet in the next stitch, chain one), and repeat the part in the brackets until the end of the row
+
+Row 3: (double crochet, chain one, and skip a stitch, all in the "hole" created by skipping a stitch in the previous row) until the end of the row, then double crochet and chain one, in the first chain stitch of the previous row (between the previous row and the one before it)
+
+Row 4: (skip a stitch, double crochet in the next stitch, chain one), and repeat the part in the brackets until the end of the row
+
+Rows 5-8: Repeat Row 3 and Row 4
+
+Note: If the sides of the piece start expanding, skip the first "hole" (created by skipping a stitch in the previous row) in the row and move on to the next one.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
